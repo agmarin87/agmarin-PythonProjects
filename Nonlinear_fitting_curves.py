@@ -16,7 +16,7 @@ import numpy as np
 # Import curve fitting package from scipy
 from scipy.optimize import curve_fit
 
-#defining the exponential curve. See more in AGMFunctions.py
+#defining the exponential curve.
 def exponential(x, a, b):
     return a*np.exp(b*x)
 
@@ -65,6 +65,3 @@ print("r^2 =", r_squared)
 #Figure 2. Plotting residuals
 plot2 = plt. figure(2)
 plt.plot(x,res, alpha=0.4, marker='.')
-
-
-
