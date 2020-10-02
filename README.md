@@ -12,6 +12,6 @@ This [Figure](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/CO
 ### Mean square displacement (MSD) analyzer
 In [this code](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/MSD-calculation.py) I am generating a random (brownian motion) 3D trayectory. From this trayectory I am calculating and plotting the corresponding MSD value. Useful for Biophysics.
 
-### Mean square displacement (MSD) analyzer
+### Non-linear regression of a dataset
 In [this code](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/Nonlinear_fitting_curves.py), I am generating a random 2D dataset. I am performing an exponential regression of this dataset and plotting it. Finally, I am calculating the goodness of fit.
 
