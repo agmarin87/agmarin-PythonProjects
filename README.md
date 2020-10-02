@@ -4,8 +4,7 @@ This portfolio is a compilation of projects that I have performed while learning
 ## Case study projects
 
 ### COVID19 analysis
-In [this project](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/COVID%20project/COVIDcases_analysis.py) I am downloading real-time data from a website and plotting some the number of new cases per million of people for some countries. If you want to include more countries, you only need to add more of them, as described in the code.
-This [Figure](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/COVID%20project/Figure%20COVID%20cases.png) is the result of running the current code.
+In [this project](https://github.com/agmarin87/agmarin-PythonProjects/tree/master/COVID%20project) I am downloading real-time data from a website and plotting some data from some European countries. If you want to include more countries, you only need to add more of them, as described in the code.
 
 ## Simple projects
 
