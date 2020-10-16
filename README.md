@@ -1,5 +1,5 @@
 # Data Science Portfolio by Antonio García Marín
-This portfolio is a compilation of projects that I have performed while learning and applying Python.
+This portfolio is a compilation of projects that I have performed while learning and applying Python. Feel free to use them. I would appreciate a lot if you acknowledge me if you use any of these codes I have submitted.
 
 ## Case study projects
 
