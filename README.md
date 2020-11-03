@@ -6,6 +6,9 @@ This portfolio is a compilation of projects that I have performed while learning
 ### COVID19 analysis
 In [this project](https://github.com/agmarin87/agmarin-PythonProjects/tree/master/COVID%20project) I am downloading real-time data from a website and plotting some data from some European countries. If you want to include more countries, you only need to add more of them, as described in the code.
 
+### World Happiness 2019 analysis
+In [this project](https://github.com/agmarin87/agmarin-PythonProjects/tree/master/World%20happiness) I have downloaded the data from the Kaggle website and study the influence of different parameters on the people happiness.
+
 ## Simple projects
 
 ### Mean square displacement (MSD) analyzer
