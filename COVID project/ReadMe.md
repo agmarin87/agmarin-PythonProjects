@@ -3,3 +3,9 @@ The next [Figure](https://github.com/agmarin87/agmarin-PythonProjects/blob/maste
 Next [Figure](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/COVID%20project/COVID%20beds.png) represents the number of available beds per thousand of people. Looks like countries like Spain and Italy do not have too many beds, which might influence the death rate because hospitals can become saturated easily. However, more data is necessary to study this variable since it does not take into account the new beds prepared during the coronavirus crisis.
 
 I was also curious to know if there is an influence in the diet (vegetarian-based or meat-based) and the possibility to get infected with COVID. I have found the data from the Kaggle website (https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset) and studied the correlation.
+
+Influence of meat diet. [LINK](https://raw.githubusercontent.com/agmarin87/agmarin-PythonProjects/master/COVID%20project/COVID-meat%20correlation.png)
+
+Influence of vegetarian diet. [LINK](https://raw.githubusercontent.com/agmarin87/agmarin-PythonProjects/master/COVID%20project/COVID-vegetables%20correlation.png)
+
+It looks like there is not a strong correlation between meat diet and the death rate. However, vegetarian diet might be better since it also helps people to avoid obesity, as shown in the previous Figure.
