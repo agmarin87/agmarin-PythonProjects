@@ -1,6 +1,6 @@
 # Data Science Portfolio by Antonio García Marín
 This portfolio is a compilation of projects that I have performed while learning Python. Feel free to use them. I would appreciate a lot if you acknowledge me if you use any of these codes I have submitted.
-For more projects and further visualizations (including the ones posted here, I also have my kaggle account: https://www.kaggle.com/agmarin87)-
+For more projects and further visualizations (including the ones posted here, I also have my kaggle account: https://www.kaggle.com/agmarin87)
 
 ## Case study projects
 
