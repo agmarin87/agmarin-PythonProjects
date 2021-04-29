@@ -11,5 +11,6 @@ Influence of vegetarian diet. [LINK](https://raw.githubusercontent.com/agmarin87
 It looks like there is not a strong correlation between the consumption of meat products and the death rate (value are not higher than 0.5). However, it is possible to see that a vegetarian diet might be better due to the negative correlation values. And it also helps people to avoid obesity. Maybe, I should change my eating habits :)
 
 Also, I would like to know, which countries have a higher degree of obesity. For this, I am plotting the following map: [LINK](https://github.com/agmarin87/agmarin-PythonProjects/blob/master/COVID%20project/mymap.html). 
+
 You might need to download this map and opening it with your browser since sometimes github is not showing it.
 From this map, looks like the countries with the highest values of obesity are USA and Saudi Arabia.
